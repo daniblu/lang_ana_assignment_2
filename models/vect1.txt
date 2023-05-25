@@ -1,0 +1,5 @@
+Vectorizer method: tfidf 
+Number of features: 50 
+N-grams: [1, 2] 
+Max document frequency: 0.95 
+Min document frequency: 0.05

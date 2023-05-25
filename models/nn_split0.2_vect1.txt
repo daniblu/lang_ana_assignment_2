@@ -1,0 +1,3 @@
+Hidden layers: (20,) 
+Max iterations: 1000 
+Random state: 1
